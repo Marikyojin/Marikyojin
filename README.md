@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on my studies 
 - 📫 How to reach me mariastrofisica@gmail.com
-- (https://miro.medium.com/max/808/0*I4KFArErBehs6aaU.png)
+- 📪 https://web.postman.co/me/apis
 
 
 <!---
