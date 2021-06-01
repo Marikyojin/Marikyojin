@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning programing
 - 💞️ I’m looking to collaborate on my studies 
 - 📫 How to reach me mariastrofisica@gmail.com
+- (https://miro.medium.com/max/808/0*I4KFArErBehs6aaU.png)
+
 
 <!---
 Marikyojin/Marikyojin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
